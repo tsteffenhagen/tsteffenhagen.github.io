@@ -4,12 +4,9 @@ element.style {
 }
 
 body {
+    background-color: GainsBoro;
     display: block;
     margin: 8px;
-}
-
-body {
-    background-color: GainsBoro;
 }
 
 .header {
