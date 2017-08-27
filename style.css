@@ -5,12 +5,15 @@ body {
 
 h1 {
   color: Teal;
+  font-family: Palatino, 'Palatino Linotype', serif;
 }
 h2 {
   color: Teal;
+    font-family: Palatino, 'Palatino Linotype', serif;
 }
 h3 {
   color: Teal;
+    font-family: Palatino, 'Palatino Linotype', serif;
 }
 p {
   color: DeepSkyBlue;
@@ -18,4 +21,5 @@ p {
 
 li {
   color: teal;
+    font-family: helvetica;
 }
