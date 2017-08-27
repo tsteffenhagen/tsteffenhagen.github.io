@@ -5,6 +5,7 @@ body {
 .header {
   font-family: Palatino, 'Palatino Linotype', serif;
     color: Teal;
+    justify-content: center;
 }
 
 h1{
