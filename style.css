@@ -7,6 +7,7 @@ body {
     color: Teal;
     text-align: center;
     font-weight: bold;
+    line-height: .5;
 }
 
 .job {
