@@ -21,7 +21,8 @@ body {
 
 .job {
   font-family: Palatino, 'Palatino Linotype', serif;
-    color: Teal;
+  color: Teal;
+  text-align: left;
 }
 
 h2 {
