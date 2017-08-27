@@ -2,19 +2,11 @@
 body {
     background-color: GainsBoro;
 }
-
-h1 {
-  color: Teal;
+.header {
   font-family: Palatino, 'Palatino Linotype', serif;
+    color: Teal;
 }
-h2 {
-  color: Teal;
-    font-family: Palatino, 'Palatino Linotype', serif;
-}
-h3 {
-  color: Teal;
-    font-family: Palatino, 'Palatino Linotype', serif;
-}
+
 p {
   color: DeepSkyBlue;
 }
