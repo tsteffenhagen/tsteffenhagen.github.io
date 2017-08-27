@@ -23,6 +23,7 @@ body {
   font-family: Palatino, 'Palatino Linotype', serif;
   color: Teal;
   text-align: left;
+  line-height: 1;
 }
 
 h2 {
