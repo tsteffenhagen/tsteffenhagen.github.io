@@ -7,6 +7,8 @@ body {
     color: Teal;
     text-align: center;
 }
+
+
 .job {
   font-family: Palatino, 'Palatino Linotype', serif;
     color: Teal
@@ -22,5 +24,4 @@ p {
 li {
   color: DeepSkyBlue;
   font-family: helvetica;
-   
-}
+ }
