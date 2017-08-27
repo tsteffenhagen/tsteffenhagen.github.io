@@ -1,4 +1,8 @@
 
+body {
+    background-color: GainsBoro;
+}
+
 h1 {
   color: Teal;
 }
@@ -10,10 +14,6 @@ h3 {
 }
 p {
   color: DeepSkyBlue;
-}
-
-body {
-    background-color: GainsBoro;
 }
 
 li {
