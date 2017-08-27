@@ -11,8 +11,8 @@ body {
   font-family: Palatino, 'Palatino Linotype', serif;
     color: Teal
 }
-h1{
-font-size: 56px;
+h2{
+color: Teal;
 }
 
 p {
@@ -20,7 +20,7 @@ p {
 }
 
 li {
-  color: darkgoldenrod;
+  color: DeepSkyBlue;
   font-family: helvetica;
    
 }
