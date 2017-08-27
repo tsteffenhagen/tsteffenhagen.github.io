@@ -1,7 +1,17 @@
 
+
+element.style {
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
 body {
     background-color: GainsBoro;
 }
+
 .header {
   font-family: Palatino, 'Palatino Linotype', serif;
     color: Teal;
